@@ -4,7 +4,6 @@
   "description": "Open Source Bootstrap Admin Template",
   "author": "Mohammad",
   "homepage": "home",
-  "copyright": "Copyright 2018 creativeLabs Łukasz Holeczek",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
